@@ -5,4 +5,5 @@ bot qui crée des blague type humour noir  video avec une api  et qui les upload
  et le session_id de tiktok
  moviepy
 Tiktok_uploader https://github.com/MiniGlome/Tiktok-uploader
+(je l e code avec le q )
 si vous avez un probleme mon discord Wowhelloblue#9052
