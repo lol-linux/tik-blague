@@ -1,3 +1,3 @@
 @echo on
-py test-api.py
+py main.py
 pause
